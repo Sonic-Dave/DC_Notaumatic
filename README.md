@@ -12,10 +12,10 @@ Additionally adding a panel mount for the XT30 connector reduces damage to the c
 # Parts required
 
 1. 3D printed part and back plate.
-....* Material PLA+ (I printed at 101% as the design is a little tight on the XT30 connector)
-2. 2 x XT30 connector set (plug and socket)
-3. Silicone wire 20AWG
-4. 2 x Screw and nut M3x16
+   * Material PLA+ (I printed at 101% as the design is a little tight on the XT30 connector)
+3. 2 x XT30 connector set (plug and socket)
+4. Silicone wire 20AWG
+5. 2 x Screw and nut M3x16
 
 
 
