@@ -26,7 +26,7 @@ Open up the Notaumatic
 Solder 130mm length of Red and Black wire to 1 Male XT30 connector  
 ![IMG_3913](https://github.com/user-attachments/assets/bb6bc94c-1297-4616-bc8b-adafc43957ed = 250x250)
 
-<img src="https://github.com/user-attachments/assets/bb6bc94c-1297-4616-bc8b-adafc43957ed" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/bb6bc94c-1297-4616-bc8b-adafc43957ed" width=50%>
 
 
 Add heatshrink  
