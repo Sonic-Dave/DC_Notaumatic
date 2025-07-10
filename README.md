@@ -53,7 +53,7 @@ Plug the two XT30 connectors together and close up the Notaumatic
 Dont forget to change the battery end and charger connectors
 
 Enjoy!
-<img src="(https://github.com/user-attachments/assets/c22170d2-877d-42b4-9b10-9db53fa9a71c" width=35%>
+<img src="https://github.com/user-attachments/assets/c22170d2-877d-42b4-9b10-9db53fa9a71c" width=35%>
 
 
 
