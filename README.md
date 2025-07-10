@@ -16,6 +16,24 @@ Additionally adding a panel mount for the XT30 connector reduces damage to the c
 3. 2 x XT30 connector set (plug and socket)
 4. Silicone wire 20AWG
 5. 2 x Screw and nut M3x16
+6. Heatshrink
+
+
+# Doing it
+
+Cut off JST connector
+Open up the Notaumatic
+Solder 130mm length of Red and Black wire to 1 Male XT30 connector
+Add heatshrink
+Press Connector into 3D printed panel mount bracket
+If existing gromet is low enough on the panel you can pass the wire through otherwise you may need to redrill the gromet hole.
+Line up the bracket on the back panel and mark mounting holes
+Drill holes 3.5mm
+Press 2 M3 nuts into the backing plate
+Attach bracket to the back pane with 2x M3x16 screw
+Solder Female XT30 connector to end of silicone wires (dont forget heatshrink before soldering)
+Solder Male XT30 conector to red and black wire from the Notaumatic (dont forget heatshrink)
+Plug 
 
 
 
