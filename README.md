@@ -24,7 +24,7 @@ Additionally adding a panel mount for the XT30 connector reduces damage to the c
 Cut off JST connector  
 Open up the Notaumatic  
 Solder 130mm length of Red and Black wire to 1 Male XT30 connector  
-![IMG_3913](https://github.com/user-attachments/assets/bb6bc94c-1297-4616-bc8b-adafc43957ed|400)
+![IMG_3913](https://github.com/user-attachments/assets/bb6bc94c-1297-4616-bc8b-adafc43957ed =400x400)
 
 Add heatshrink  
 Press Connector into 3D printed panel mount bracket  
